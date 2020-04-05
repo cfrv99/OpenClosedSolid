@@ -1,0 +1,9 @@
+C:\Users\Murad\source\repos\OpenClosedPrincipal\OCPLibrary4\bin\Debug\netstandard2.0\OCPLibrary4.deps.json
+C:\Users\Murad\source\repos\OpenClosedPrincipal\OCPLibrary4\bin\Debug\netstandard2.0\OCPLibrary4.dll
+C:\Users\Murad\source\repos\OpenClosedPrincipal\OCPLibrary4\bin\Debug\netstandard2.0\OCPLibrary4.pdb
+C:\Users\Murad\source\repos\OpenClosedPrincipal\OCPLibrary4\obj\Debug\netstandard2.0\OCPLibrary4.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\OpenClosedPrincipal\OCPLibrary4\obj\Debug\netstandard2.0\OCPLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\OpenClosedPrincipal\OCPLibrary4\obj\Debug\netstandard2.0\OCPLibrary4.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\OpenClosedPrincipal\OCPLibrary4\obj\Debug\netstandard2.0\OCPLibrary4.AssemblyInfo.cs
+C:\Users\Murad\source\repos\OpenClosedPrincipal\OCPLibrary4\obj\Debug\netstandard2.0\OCPLibrary4.dll
+C:\Users\Murad\source\repos\OpenClosedPrincipal\OCPLibrary4\obj\Debug\netstandard2.0\OCPLibrary4.pdb

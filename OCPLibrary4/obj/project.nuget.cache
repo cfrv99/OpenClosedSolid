@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LF5XSo2TU3PLdOBbEd7JL3ITu212UkWo9XnsXy2RFRLKdfMrDnQ2yn9H/rT88ocr3ohNfBCWRpevzIxpRO9ACw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Murad\\source\\repos\\OpenClosedPrincipal\\OCPLibrary4\\OCPLibrary4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

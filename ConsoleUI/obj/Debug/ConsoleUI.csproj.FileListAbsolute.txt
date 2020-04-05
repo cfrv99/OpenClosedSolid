@@ -1,0 +1,10 @@
+C:\Users\Murad\source\repos\OpenClosedPrincipal\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Murad\source\repos\OpenClosedPrincipal\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Murad\source\repos\OpenClosedPrincipal\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Murad\source\repos\OpenClosedPrincipal\ConsoleUI\bin\Debug\OCPLibrary4.dll
+C:\Users\Murad\source\repos\OpenClosedPrincipal\ConsoleUI\bin\Debug\OCPLibrary4.pdb
+C:\Users\Murad\source\repos\OpenClosedPrincipal\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\OpenClosedPrincipal\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\OpenClosedPrincipal\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Murad\source\repos\OpenClosedPrincipal\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Murad\source\repos\OpenClosedPrincipal\ConsoleUI\obj\Debug\ConsoleUI.pdb
