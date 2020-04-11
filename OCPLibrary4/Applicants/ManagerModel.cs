@@ -4,7 +4,10 @@ using System.Text;
 
 namespace OCPLibrary4
 {
-    class ManagerModel
+    public class ManagerModel : IApplicantModel
     {
+        public string Firstname { get; set; }        
+        public string Lastname { get; set; }
+        public IAccounts AccountProcessor { get; set; } = new ManagerAccounts();
     }
 }

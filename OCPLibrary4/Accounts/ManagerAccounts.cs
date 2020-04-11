@@ -4,7 +4,17 @@ using System.Text;
 
 namespace OCPLibrary4
 {
-    class ManagerAccounts
+    public class ManagerAccounts : IAccounts
     {
+        public EmployeeModel Create(IApplicantModel person)
+        {
+            EmployeeModel output = new EmployeeModel();
+            output.Firstname = person.Firstname;
+            output.Lastname = person.Lastname;
+            output.EmailAddress = $"{person.Firstname.Substring(0, 1)}{person.Lastname}@acme.com";
+
+            output.IsManager = true;
+            return output;
+        }
     }
 }

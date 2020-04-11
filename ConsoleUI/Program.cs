@@ -11,23 +11,23 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            List<PersonModel> applicants = new List<PersonModel>()
+            List<IApplicantModel> applicants = new List<IApplicantModel>()
             {
-                new PersonModel {Firstname = "Tim",Lastname="Corey"},
-                new PersonModel{Firstname="Sue",Lastname= "Storm",TypeOfEmployee=EmployeeType.Manager},
-                new PersonModel{Firstname="Nancy",Lastname="Roman"}
+                new PersonModel { Firstname = "Tim", Lastname="Corey"},
+                new ManagerModel{ Firstname="Sue", Lastname= "Storm" },
+                new ExecutiveModel { Firstname="Nancy", Lastname="Roman" }
             };
 
             List<EmployeeModel> employees = new List<EmployeeModel>();
-            Accounts accountProcessor = new Accounts();
+            
 
             foreach (var person in applicants)
             {
-                employees.Add(accountProcessor.Create(person));
+                employees.Add(person.AccountProcessor.Create(person));
             }
             foreach (var emp in employees)
             {
-                Console.WriteLine($"{emp.Firstname} {emp.Lastname} {emp.EmailAddress} {emp.IsManager}");
+                Console.WriteLine($"{emp.Firstname} {emp.Lastname} {emp.EmailAddress} {emp.IsManager} {emp.IsExecutive}");
             }
 
             Console.ReadLine();

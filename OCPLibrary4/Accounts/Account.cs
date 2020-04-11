@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OCPLibrary4
 {
-    public class Accounts : IAccounts
+    public class Account : IAccounts
     {
         public EmployeeModel Create(IApplicantModel person)
         {

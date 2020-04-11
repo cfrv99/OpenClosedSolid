@@ -8,6 +8,7 @@ namespace OCPLibrary4
     {
         public string Firstname { get; set; }
         public string Lastname { get; set; }
+        public IAccounts AccountProcessor { get; set; } = new Account();
         //public EmployeeType TypeOfEmployee { get; set; } = EmployeeType.Staff;
     }
 }

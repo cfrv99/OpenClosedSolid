@@ -4,5 +4,6 @@
     {
         string Firstname { get; set; }
         string Lastname { get; set; }
+        IAccounts AccountProcessor { get; set; }
     }
 }
